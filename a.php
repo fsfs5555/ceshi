@@ -1,2 +1,2 @@
 <?php
-	echo "sub";
+	echo "sub";		private static $appPath = '';
