@@ -1,5 +1,6 @@
 <?php
-	echo "sub";	echo "sub";	echo "sub";	class Autoloader{
+	echo "sub1";	echo "su1b";	echo "s1ub";	
+	class Autoloader{
 		private static $appPath = '';
 		private static $classMap= [];
 		private static $autoloadPath = [
